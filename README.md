@@ -1,2 +1,2 @@
-2024월 3월 29일 K-DEVCON Seoul <br>
+2024월 3월 28일 K-DEVCON Seoul <br>
 삼월엔 일을 "제대로" 하자 참여 (at 프로그래머스 강남 교육장) <br>
